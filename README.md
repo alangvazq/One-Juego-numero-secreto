@@ -10,4 +10,4 @@ El Juego del Número Secreto es un simple juego de adivinanzas. El juego genera 
 4. Continúa adivinando hasta que encuentres el número secreto. ¡Ganas el juego cuando adivinas correctamente!
 
 ## Vista previa
-![Página principal del juego](./img/web01)
+![Página principal del juego](./img/web01.png)
